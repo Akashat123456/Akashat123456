@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student <br>Currently learning about AI ML
+I'm student <br> 🌱 I’m currently learning ...AI ML
 
 
 ## 🌐 Socials:
